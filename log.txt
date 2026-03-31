@@ -4,11 +4,6 @@ add more code test bright base chain
 add more code test send base chain
 add more code test deploy token base chain
 add more code test deploy nft base chain
-
-
-
-
-
 add more code test deploy nft no change base chain 137
 add more code test deploy nft no change base chain 138
 add more code test deploy nft no change base chain 139
