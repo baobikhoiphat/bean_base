@@ -4,6 +4,3 @@ add more code test bright base chain
 add more code test send base chain
 add more code test deploy token base chain
 add more code test deploy nft base chain
-
-
-
