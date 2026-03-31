@@ -1,2 +1,3 @@
 add code test Base chain
 add more code test gm base chain
+add more code test bright base chain
